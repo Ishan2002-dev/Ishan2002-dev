@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hello!;I'm+Ishan+Prabhashana;Software+Engineer" alt="Animated Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hello!;I'm+Ishan+Prabhashana;Welcome+to+GitHub+Account" alt="Animated Typing Header"/>
   
 
   <br>

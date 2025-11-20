@@ -24,7 +24,7 @@
 </div>
 
 ## 🌟 About Me
-<h4>I'm Ishan Prabhashana</h4>
+<h3>I'm Ishan Prabhashana </h3>
 I am a passionate Software Engineering student dedicated to learning and applying modern technologies. I thrive on challenges and enjoy turning innovative ideas into functional software solutions.
 
 * **📚 Field of Study:** Deep learning in Scalable System Architectures and Full-Stack Development.
